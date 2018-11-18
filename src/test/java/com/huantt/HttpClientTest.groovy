@@ -1,5 +1,7 @@
 package com.huantt
 
+import com.huantt.commons.HttpClient
+import com.huantt.commons.UrlBuilder
 import okhttp3.HttpUrl
 import okhttp3.Response
 import org.json.JSONObject

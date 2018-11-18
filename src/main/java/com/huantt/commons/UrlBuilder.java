@@ -1,4 +1,4 @@
-package com.huantt;
+package com.huantt.commons;
 
 import okhttp3.HttpUrl;
 
