@@ -1,5 +1,6 @@
-package com.huantt.commons.httpclient;
+package com.huantt.commons.httpclient.sync;
 
+import com.huantt.commons.httpclient.UrlBuilder;
 import okhttp3.*;
 
 import java.io.IOException;

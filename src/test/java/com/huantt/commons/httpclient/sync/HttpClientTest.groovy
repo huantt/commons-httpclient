@@ -1,6 +1,6 @@
-package com.huantt
+package com.huantt.commons.httpclient.sync
 
-import com.huantt.commons.httpclient.HttpClient
+import com.huantt.commons.httpclient.sync.HttpClient
 import com.huantt.commons.httpclient.UrlBuilder
 import okhttp3.HttpUrl
 import okhttp3.Response
