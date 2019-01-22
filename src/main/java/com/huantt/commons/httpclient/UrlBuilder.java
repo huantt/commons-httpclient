@@ -1,4 +1,4 @@
-package com.huantt;
+package com.huantt.commons.httpclient;
 
 import okhttp3.HttpUrl;
 
